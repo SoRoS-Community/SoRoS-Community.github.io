@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to SoRoS community
 
-You can use the [editor on GitHub](https://github.com/SoRoS-Community/SoRoS-Community.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The SoRoS stands for Social Robotics Sweden. We are a community that consists students who are working on social robotics applications.
 
 ### Markdown
 
