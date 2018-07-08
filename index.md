@@ -4,12 +4,19 @@ The SoRoS stands for Social Robotics Sweden. We are a community that consists st
 
 - Everybody is welcome to contribute to the development of the website.
 
-Here are my suggestions for developing the website. Several individual pages should be added to in order to provide information on different categories.
+Here are my suggestions for developing the website. 
+
+1. Every page is made using MarkDown language.
+2. We have a default webpage [Home](index.html) to include all the relevent pages on the website.
+3. Whenever a page is made, a link to [Honm](index.html) should be put at the begining of the weboage.(See [People](people.html) page for example.
+4. Suggestions and discussions could be initialized in issues.
+
+Currently, we have following pages:
 
 ### People
 
-All the members can be found here on this [page](people.html)
+All the members can be found here on this [People](people.html) page.
 
-### Research Paper
+### Research
 
-Recent research papers can be found on this page.
+Recent research research papes published can be found on this [Research](research.html) page.
