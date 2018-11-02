@@ -19,7 +19,8 @@ Recent research papers published can be found on this [[Research]](research.html
 
 Instructions of contributing to the development of the webpage can be found on this [[Instructions]](instructions.html) page.
 
-#### Suggestions for website development
+------
+> Suggestions for website development
 Here are my suggestions for developing the website. 
 
 1. Every page is made using MarkDown language.
