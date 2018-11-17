@@ -1,5 +1,5 @@
 # The SoRoS Community Website.
-> The SoRoS stands for swedish The SoRoS stands for Social Robotics Sweden. We are a community that consists scholars who are working on social robotics applications in Sweden. Social roboics is a complecated field which involves from classic robotics to phycology. We work together to make sure that robot will be with us.
+> The SoRoS stands for Social Robotics Sweden. We are a community that consists scholars who are working on social robotics applications in Sweden. Social roboics is a complecated field which involves from classic robotics to phycology. We work together to make sure that robot will be with us.
 
 
 [![Build Status][travis-image]][travis-url]
