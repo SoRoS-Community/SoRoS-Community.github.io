@@ -8,3 +8,5 @@ Sam Thellman, Ph.D. Candidate@Linköpng University. ([personal website](https://
 Taras Kucherenko, Ph.D. Candidate@KTH Royal Institute of Technology. ([personal website](https://www.kth.se/profile/tarask/))
 
 Dimosthenis Kontogiorgos, Ph.D. Candidate@KTH Royal Institute of Technology. ([personal website](https://www.kth.se/profile/diko/))
+
+Sanne van Waveren, Ph.D. Student@KTH Royal Institute of Technology. ([personal website](https://www.kth.se/profile/sannevw/))
