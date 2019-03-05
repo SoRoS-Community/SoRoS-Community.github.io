@@ -1,9 +1,9 @@
 [[Home](index.html)]
 ### All Members of SoRoS Community
 
-Alex Yuan Gao, Ph.D. Candidate@Uppsala University. ([personal website](http://gaoyuankidult.github.io/about/))
-
 Sam Thellman, Ph.D. Candidate@Linköpng University. ([personal website](https://www.ida.liu.se/~samth78/))
+
+Alex Yuan Gao, Ph.D. Candidate@Uppsala University. ([personal website](http://gaoyuankidult.github.io/about/))
 
 Taras Kucherenko, Ph.D. Candidate@KTH Royal Institute of Technology. ([personal website](https://www.kth.se/profile/tarask/))
 
