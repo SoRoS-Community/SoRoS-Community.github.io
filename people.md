@@ -16,3 +16,7 @@ Erik Lagerstedt, Ph.D. Student@University of Skövde. ([personal website](http:/
 Julia Rosén, Ph.D. Student@University of Skövde. ([personal website](http://www.his.se/om-oss/Organisation/Personalsidor/Julia-Rosen/))
 
 Hannah Pelikan, Ph.D. Candidate@Linköping University. ([personal website](https://www.hannahpelikan.com))
+
+Michele Persiani, Ph.D. Candidate@Umeå University. ([personal website](https://www.umu.se/en/staff/michele-persiani/))
+
+Maitreyee Tewari, Ph.D. Candidate@Umeå University. ([personal website](https://www.umu.se/en/staff/maitreyee-maitreyee/))
