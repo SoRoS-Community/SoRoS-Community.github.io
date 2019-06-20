@@ -31,3 +31,17 @@ Dimosthenis Kontogiorgos. Multimodal language grounding for improved human-robot
 Patrik Jonell, Catharine Oertel, Dimosthenis Kontogiorgos, Jonas Beskow and Joakim Gustafson. Crowdpowered design of virtual attentive listeners. Intelligent Virtual Agents (IVA). Stockholm. 2017.
 
 Catharine Oertel, Patrik Jonell, Dimosthenis Kontogiorgos, Joseph Mendelson, Jonas Beskow and Joakim Gustafson. Crowdsourced design of artificial attentive listeners. Interspeech. Stockholm. 2017.
+
+#### Taras Kucherenko's publication list
+
+> You can also find the more detailed list [here](https://svito-zar.github.io/publications/)
+
+Pieter Wolfert, Taras Kucherenko, Hedvig Kjellström, Tony Belpaeme. Should Beat Gestures Be Learned Or Designed? A Benchmarking User Study. ICDL-EPIROB 2019 Workshop on Naturalistic Non-Verbal and Affective Human-Robot Interactions. Oslo. 2019.
+
+Patrik Jonell, Taras Kucherenko, Erik Ekstedt, Jonas Beskow. Learning Non-verbal Behavior for a Social Robot from YouTube Videos. ICDL-EPIROB 2019 Workshop on Naturalistic Non-Verbal and Affective Human-Robot Interactions. Oslo. 2019.
+
+Taras Kucherenko, Dai Hasegawa, Gustav Eje Henter, Naoshi Kaneko, and Hedvig Kjellström. Analyzing input and output representations for speech-driven gesture generation. International Conference on Intelligent Virtual Agents (IVA ‘19). Paris. 2019.
+
+Taras Kucherenko, Dai Hasegawa, Naoshi Kaneko, Gustav Eje Henter, and Hedvig Kjellström. On the importance of representations for speech-driven gesture generation. 18th International Conference on Autonomous Agents and Multiagent Systems (AAMAS ‘19), Extended Abstract. Montreal. 2019.
+
+Taras Kucherenko. Data driven non-verbal behavior generation for humanoid robots. International Conference on Multimodal Interaction (ICMI ‘18), Doctoral Consortium. Boulder. 2018.

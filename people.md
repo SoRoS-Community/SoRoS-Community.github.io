@@ -5,7 +5,7 @@ Sam Thellman, Ph.D. Candidate@Linköpng University. ([personal website](https://
 
 Alex Yuan Gao, Ph.D. Candidate@Uppsala University. ([personal website](http://gaoyuankidult.github.io/about/))
 
-Taras Kucherenko, Ph.D. Candidate@KTH Royal Institute of Technology. ([personal website](https://www.kth.se/profile/tarask/))
+Taras Kucherenko, Ph.D. Candidate@KTH Royal Institute of Technology. ([personal website](https://svito-zar.github.io/))
 
 Dimosthenis Kontogiorgos, Ph.D. Candidate@KTH Royal Institute of Technology. ([personal website](https://www.kth.se/profile/diko/))
 
