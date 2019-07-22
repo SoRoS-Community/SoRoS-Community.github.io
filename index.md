@@ -7,7 +7,7 @@ The SoRoS stands for Social Robotics Sweden. We are a community that consists st
 
 Currently, we have following pages:
 
-### Annual meeting
+### Annual workshop
 
 The SoRoS community holds annual workshop for all members to present their work. See this [[Workshop]](wokshop.html) page for details.
 
