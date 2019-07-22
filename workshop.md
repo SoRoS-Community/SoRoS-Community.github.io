@@ -1,3 +1,5 @@
+[[Home](index.html)]
+
 This year, we had another annual workshop at the University of Skövde
 ![](meeting-2019.jpg)
 
