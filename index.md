@@ -24,4 +24,4 @@ Recent research papers published can be found on this [[Research]](research.html
 Instructions of contributing to the development of the webpage can be found on this [[Instructions]](instructions.html) page.
 
 ### Our recent tweets
-<a class="twitter-timeline" href="https://twitter.com/SocRobSweden?ref_src=twsrc%5Etfw">Tweets by SocRobSweden</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="1006" data-height="450" href="https://twitter.com/SocRobSweden?ref_src=twsrc%5Etfw">Tweets by SocRobSweden</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
