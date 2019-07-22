@@ -18,14 +18,3 @@ Recent research papers published can be found on this [[Research]](research.html
 ### Instructions
 
 Instructions of contributing to the development of the webpage can be found on this [[Instructions]](instructions.html) page.
-
-------
-> Suggestions for website development
-Here are my suggestions for developing the website. 
-
-1. Every page is made using MarkDown language.
-2. We have a default webpage [[Home]](index.html) to include all the relevent pages on the website.
-3. Whenever a page is made, a link to [[Home]](index.html) should be put at the begining of the weboage.(See [[People]](people.html) page for example.
-4. Suggestions and discussions could be initialized in issues.
-5. Instructions of developing this website can be found here [[Instructions]](instructions.html)
-6. This website now has `hacker` theme but we can change it later.
