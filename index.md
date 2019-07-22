@@ -9,7 +9,7 @@ Currently, we have following pages:
 
 ### Annual workshop
 
-The SoRoS community holds annual workshop for all members to present their work. See this [[Workshop]](wokshop.html) page for details.
+The SoRoS community holds annual workshop for all members to present their work. See this [[Workshop]](workshop.html) page for details.
 
 ### People
 
