@@ -4,7 +4,7 @@
 
 [![Build Status][travis-image]][travis-url]
 
-![](people.jpg)
+![](meeting-2018.jpg)
 
 ## Release History
 
