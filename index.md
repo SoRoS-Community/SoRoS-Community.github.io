@@ -1,3 +1,4 @@
+![](meeting-2018.jpg)
 ## Welcome to SoRoS Community
 
 The SoRoS stands for Social Robotics Sweden. We are a community that consists students who are working on social robotics applications in Sweden. 
