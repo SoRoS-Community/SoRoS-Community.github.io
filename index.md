@@ -20,6 +20,10 @@ All the members can be found here on this [[People]](people.html) page.
 
 Recent research papers published can be found on this [[Research]](research.html) page.
 
+### Tips
+
+Tips about different aspect of research, such as writing papers and making posters can be found on this [[Tips]](tips.html) page.
+
 ### Instructions
 
 Instructions of contributing to the development of the webpage can be found on this [[Instructions]](instructions.html) page.
