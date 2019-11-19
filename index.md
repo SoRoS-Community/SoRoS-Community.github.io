@@ -22,7 +22,7 @@ Recent research papers published can be found on this [[Research]](research.html
 
 ### Tips
 
-Tips about different aspect of research, such as writing papers and making posters can be found on this [[Tips]](tips.html) page.
+Advices about different aspect of research can be found on this [[Tips]](tips.html) page.
 
 ### Instructions
 
