@@ -1,4 +1,4 @@
-[[Home](tips.html)]
+[[Home](index.html)]
 
 # SoRoS 2020 Workshop will happen on 11th of May at KTH, Stockholm
 
